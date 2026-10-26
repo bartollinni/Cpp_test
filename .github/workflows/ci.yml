@@ -50,3 +50,4 @@ jobs:
           output=$(./program.exe)
           echo "$output"
           test "$output" = "OK"
+
